@@ -35,14 +35,14 @@ The objective was to perform network discovery, identify open ports/services, an
 ---
 
 ## Tools Used
-```
+
 | Tool | Purpose |
 |---|---|
 | Nmap | Network scanning and enumeration |
 | Wireshark | Packet capture and analysis |
 | Kali Linux | Security testing environment |
 | Metasploitable | Vulnerable testing target |
-```
+
 ---
 
 ## Scan Performed
