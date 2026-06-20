@@ -64,10 +64,11 @@ nmap -sV <target-ip>
 
 ## Results
 
-Port	Service	 Version	Risk
-21	    FTP	     vsftpd	    Weak configuration
-22	    SSH	     OpenSSH	Review access
-80	    HTTP	 Apache	    Web assessment 
+| Port | Service | Version | Risk |
+|---|---|---|---|
+| 21 | FTP	| vsftpd | Weak configuration
+| 22	| SSH	| OpenSSH |	Review access
+| 80	| HTTP	| Apache	| Web assessment 
 
 ---
 
