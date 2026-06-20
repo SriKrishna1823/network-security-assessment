@@ -2,9 +2,6 @@
 *.vmdk
 *.vmx
 
-# Large packet captures (optional)
-*.pcapng
-
 # Temporary files
 *.tmp
 
