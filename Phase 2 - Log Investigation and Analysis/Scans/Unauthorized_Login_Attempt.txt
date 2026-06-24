@@ -1,0 +1,15 @@
+ssh -o HostKeyAlgorithms=+ssh-rsa fakeuser@192.168.189.129 
+The authenticity of host '192.168.189.129 (192.168.189.129)' can't be established.
+RSA key fingerprint is: SHA256:BQHm5EoHX9GCiOLuVscegPXLQOsuPs+E9d/rrJB84rk
+This key is not known by any other names.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added '192.168.189.129' (RSA) to the list of known hosts.
+** WARNING: connection is not using a post-quantum key exchange algorithm.
+** This session may be vulnerable to "store now, decrypt later" attacks.
+** The server may need to be upgraded. See https://openssh.com/pq.html
+fakeuser@192.168.189.129's password: 
+Permission denied, please try again.
+fakeuser@192.168.189.129's password: 
+Permission denied, please try again.
+fakeuser@192.168.189.129's password: 
+fakeuser@192.168.189.129: Permission denied (publickey,password).
